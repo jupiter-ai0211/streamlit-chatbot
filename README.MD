@@ -113,6 +113,3 @@ The first run downloads:
 
 If you are behind a proxy or have restricted network access, configure your environment accordingly.
 
-## Security and data
-
-This project uses a public dataset and performs local embedding + retrieval. No user queries are sent to external services by default, but your environment may download model/dataset assets during setup.
